@@ -2,6 +2,8 @@
 Hint: Create a class called Car, and create a variable called myCar which contains an object of class Car. */
 
 // Story: As a programmer, I can tell how many wheels a car has; default is four. line 9 object inside variable
+//
+//
 
 class Car{
   constructor(wheels, model, modelYear, lightStatus, turnRightSignal, turnleftSignal, speedOfCar){
